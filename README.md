@@ -15,4 +15,5 @@ How to run C++ version (ob Ubuntu):
 4. `./fiber_buddy`
    
 running app should look like this:
+
 ![image](https://github.com/rodionlitvinov/chemical_fibers/assets/127775180/fed066b4-909a-44c3-bb5e-fd7e840e9c1d)
